@@ -22,7 +22,7 @@ libxinerama1 libxkbcommon0 libxml-parser-perl libxml-twig-perl libxml-xpathengin
 libxxf86vm1 mime-support notification-daemon ntfs-3g parted policykit-1 psmisc python python-minimal python2.7 python2.7-minimal python3 python3-minimal python3.5 python3.5-minimal sgml-base \
 shared-mime-info ubuntu-mono ucf udev udisks2 x11-common x11-utils x11-xserver-utils xdg-user-dirs xdg-utils xkb-data xml-core nodejs systemd libuv1 libudev1 libsystemd0 libxss1 libasound2 && \
 wget -O /tmp/atom-beta.deb "https://atom.io/download/deb?channel=beta" && dpkg -i /tmp/atom-beta.deb && \
-apt-get clean && useradd -d /home/atom -m atom
+apt-get clean && rm /tmp/atom-beta.deb && useradd -d /home/atom -m atom
 
 USER atom
 
