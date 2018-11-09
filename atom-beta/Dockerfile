@@ -14,7 +14,7 @@ libhttp-message-perl libhttp-negotiate-perl libice6 libicu55 libieee1284-3 libio
 libjson-glib-1.0-0 libjson-glib-1.0-common liblcms2-2 libllvm3.8 libltdl7 liblwp-mediatypes-perl liblwp-protocol-https-perl libmagic1 libmailtools-perl libmirclient9 libmircommon5 libxkbfile1 \
 libmirprotobuf3 libmpc3 libmpdec2 libmpfr4 libnet-dbus-perl libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libnotify4 libnspr4 libnss3 libnss3-nssdb libpam-systemd libpango-1.0-0 \
 libpangocairo-1.0-0 libpangoft2-1.0-0 libparted2 libpciaccess0 libpixman-1-0 libpng12-0 libpolkit-agent-1-0 libpolkit-backend-1-0 libpolkit-gobject-1-0 libprotobuf-lite9v5 libproxy1v5 \
-libpython-stdlib libpython2.7-minimal libpython2.7-stdlib libpython3-stdlib libpython3.5-minimal libpython3.5-stdlib librest-0.7-0 librsvg2-2 librsvg2-common libsane libsane-common \
+libpython-stdlib libpython2.7-minimal libpython2.7-stdlib libpython3-stdlib libpython3.5-minimal libpython3.5-stdlib librest-0.7-0 librsvg2-2 librsvg2-common libsane libsane-common libcurl3 \
 libsecret-1-0 libsecret-common libsm6 libsoup-gnome2.4-1 libsoup2.4-1 libtext-iconv-perl libthai-data libthai0 libtie-ixhash-perl libtiff5 libtimedate-perl libtxc-dxtn-s2tc0 libudisks2-0 \
 liburi-perl libusb-1.0-0 libvpx3 libwayland-client0 libwayland-cursor0 libwayland-egl1-mesa libwayland-server0 libwww-perl libwww-robotrules-perl libx11-protocol-perl libx11-xcb1 libxaw7 \
 libxcb-dri2-0 libxcb-dri3-0 libxcb-glx0 libxcb-present0 libxcb-render0 libxcb-shape0 libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxft2 libxi6 \
